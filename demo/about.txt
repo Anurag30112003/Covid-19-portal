@@ -1,0 +1,16 @@
+## Inspiration
+These days due to covid in India thousands of deaths are happening and people are dying due to lack of oxygen , so with this we came with the solution.
+
+## What it does
+Its has all information about covid and through this people can donate and can get oxygen concentrator,
+it also have live tracking feature.
+## How we built it
+We build it with html css javascript and fontawsome , google map api .
+## Challenges we ran into
+Hosting and integration of google map
+## Accomplishments that we're proud of
+To make a all in one covid website.
+## What we learned
+Integration of google maps and bar graph.
+## What's next for Covid-19 Portal
+Improve ui and responsiveness .
