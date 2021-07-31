@@ -661,3 +661,6 @@ footer span a:hover{
          color: white;
          text-decoration: none;
      }
+     .sub-title a{
+         color: black;
+     }
